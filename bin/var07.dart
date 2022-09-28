@@ -8,5 +8,8 @@ Print two of them.
 */
 
 void main() {
-  // write your code here
+  double y = 10.2;
+  double x = 5.8;
+  print(y);
+  print(x);
 }
